@@ -32,7 +32,8 @@ Example for the Netscience:
     ...
 
 Website link:
- #To be added
+ daa-assignment2.vercel.app
+
 Team Members:
     Jeeru Harshith Reddy (2022A7PS0233H)
     Vishal Varma Bhupathiraju(2022A7PS0174H)
