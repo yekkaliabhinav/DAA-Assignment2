@@ -32,8 +32,7 @@ Example for the Netscience:
     ...
 
 Website link:
-https://cs-f364.vercel.app/
-
+ #To be added
 Team Members:
     Jeeru Harshith Reddy (2022A7PS0233H)
     Vishal Varma Bhupathiraju(2022A7PS0174H)
