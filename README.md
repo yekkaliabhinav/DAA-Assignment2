@@ -35,8 +35,8 @@ Website link:
 https://cs-f364.vercel.app/
 
 Team Members:
-Jeeru Harshith Reddy (2022A7PS0233H)
-Vishal Varma Bhupathiraju(2022A7PS0174H)
-Sri Jaitra Saketh Goparaju(2022A7PS0183H)
-Vineeth Ulavala(2022A7PS0071H )
-Abhinav Sai Yekkali(2022A7PS0012H)
+    Jeeru Harshith Reddy (2022A7PS0233H)
+    Vishal Varma Bhupathiraju(2022A7PS0174H)
+    Sri Jaitra Saketh Goparaju(2022A7PS0183H)
+    Vineeth Ulavala(2022A7PS0071H)
+    Abhinav Sai Yekkali(2022A7PS0012H)
