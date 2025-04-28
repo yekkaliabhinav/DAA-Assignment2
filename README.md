@@ -16,7 +16,7 @@ Running:
     ./exec datasetname.txt h_value
 
 Data Preprocessing:
-Remove the lines which have start with '#'. And replace the line with the (number of nodes)'\t'(number of edges), followed by the rest of the file.
+Removed struct and if it was edge: 123; removed edge: and semicolon so it will be 123.
 
 Example for the Netscience:
 
